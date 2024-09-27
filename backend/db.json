@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone",
+      "price": 1000.89
+    },
+    {
+      "id": 2,
+      "name": "iPhone 16",
+      "price": 2000.23
+    },
+    {
+      "id": 3,
+      "name": "poco x3",
+      "price": 3000.25
+    }
+    
+  ]
+}
