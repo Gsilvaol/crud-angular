@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "iPhone",
-      "price": 1000.89
+      "name": "iPhone 20 max",
+      "price": "10000.89"
     },
     {
       "id": 2,
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "poco x3",
-      "price": 3000.25
+      "name": "poco x3 pro",
+      "price": "4000.25"
     }
   ]
 }
